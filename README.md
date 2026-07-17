@@ -37,7 +37,7 @@ The AI Agent reads the customer's message and decides which tool (if any) it nee
 
 ## Project Status
 
-🚧 In active development — building in public.
+✅ Core system complete — order lookup, FAQ answers, and refund handling with human-approval gate all working end-to-end.
 
 ## Roadmap
 
@@ -45,6 +45,8 @@ The AI Agent reads the customer's message and decides which tool (if any) it nee
 - FAQ tool (RAG)
 - Refund tool with approval gate
 - Full conversation testing
+- Add architecture diagram
+- Add demo screenshots/GIF
 
 ## Setup
 
